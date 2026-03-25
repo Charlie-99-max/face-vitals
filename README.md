@@ -74,7 +74,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/facevitals.git
+git clone https://github.com/yourusername/facevitals.git](https://github.com/Charlie-99-max/face-vitals.git
 cd facevitals
 ```
 
